@@ -6,7 +6,7 @@
 - 💬 Pergunte sobre **Python, SQL, Power BI, Excel, Google Data Studeo**
 
 - 📫 Como me contatar **thiagovinii1914@gmail.com**
-- 📄 Conheça minhas experiências em Linkedin [Thiago Costa](https://www.linkedin.com/in/thiagocosta1914)
+- 📄 Conheça minhas experiências acessando o meu Linkedin [Thiago Costa](https://www.linkedin.com/in/thiagocosta1914)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
