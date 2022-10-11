@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Thiago Vinicius 👋</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de Dados 🚀</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, Power BI e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Power BI, SQL, Python e Machine Learning**
 
 - 💬 Pergunte sobre **Python, SQL, Power BI, Excel, Google Data Studeo**
 
