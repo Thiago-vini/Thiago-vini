@@ -3,9 +3,9 @@
 
 - 🌱 Atualmente estou aprendendo **Power BI, SQL, Python e Machine Learning**
 
-- 💬 Pergunte sobre **Python, SQL, Power BI, Excel, Google Data Studeo**
+- 💬 Pergunte sobre **Excel, SQL, Power BI, Python, Google Data Studeo**
 
-- 📫 Como me contatar **thiagovinii1914@gmail.com**
+- 📫 Como me contatar: **thiagovinii1914@gmail.com**
 - 📄 Conheça minhas experiências acessando o meu Linkedin [Thiago Costa](https://www.linkedin.com/in/thiagocosta1914)
 
 <h3 align="left">Conecte-se comigo:</h3>
