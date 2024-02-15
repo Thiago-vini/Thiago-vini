@@ -1,11 +1,11 @@
 <h1 align="center">Olá, sou o Thiago Vinicius 👋</h1>
-<h3 align="center">Apaixonado por Ciência e Análise de Dados 🚀</h3>
+<h3 align="center"> Sou um Data Analytics 🚀</h3>
 
 - 🌱 Atualmente estou aprendendo **Power BI, SQL, Python e Machine Learning**
 
 - 💬 Pergunte sobre **Excel, SQL, Power BI, Python, Google Data Studeo**
 
-- 📫 Como me contatar: **thiagovinii1914@gmail.com**
+- 📫 Como me contatar: **thiagocosta.datas@gmail.com**
 - 📄 Conheça minhas experiências acessando o meu Linkedin [Thiago Costa](https://www.linkedin.com/in/thiagocosta1914)
 
 <h3 align="left">Conecte-se comigo:</h3>
